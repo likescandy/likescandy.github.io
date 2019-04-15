@@ -1,3 +1,9 @@
+header{
+  background-color: mediumaquamarine;
+  padding: 20px;
+  color: white;
+}
+
 #Courses{
     display: inline;
     text-align: left;
@@ -8,8 +14,12 @@
     padding-left: 1050px;
 }
 
-header{
-  background-color: mediumaquamarine;
-  padding: 20px;
-  color: white;
+#Semesterword{
+  padding-top: 80px;
+  display: inline;
+}
+
+#Semester{
+  padding-top: 20px;
+  display: inline;
 }
