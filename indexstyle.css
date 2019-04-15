@@ -1,0 +1,9 @@
+#Courses{
+    display: inline;
+    text-align: left;
+}
+
+#GPA{
+    display: inline;
+    padding-left: 300px;
+}
