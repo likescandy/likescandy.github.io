@@ -12,6 +12,7 @@ header{
   background-color: mediumaquamarine;
   padding: 0.50%;
   color: white;
+  font-size: 115%;
 }
 
 #Courses{
@@ -26,8 +27,14 @@ header{
 
 #Semesterword{
   display: inline;
+  position: relative;
+  left: 18%;
+  font-size: 115%;
 }
 
 #Semester{
   display: inline;
+  position: relative;
+  left: 18%;
+  font-size: 115%;
 }
