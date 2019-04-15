@@ -15,6 +15,10 @@ header{
   font-size: 130%;
 }
 
+body{
+  background-color: lightcyan;
+}
+
 #Courses{
     display: inline;
     text-align: left;
@@ -43,7 +47,7 @@ header{
 
 .course_add{
   background-color: aquamarine;
-  border: none;
+  border-color: white;
   color: white;
   text-align: center;
   text-decoration: none;
