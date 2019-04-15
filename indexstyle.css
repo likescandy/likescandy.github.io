@@ -30,6 +30,7 @@ header{
   position: relative;
   left: 21%;
   font-size: 115%;
+  top: 20px;
 }
 
 #Semester{
@@ -37,4 +38,20 @@ header{
   position: relative;
   left: 21%;
   font-size: 115%;
+  top: 20px;
+}
+
+.course_add{
+  background-color: aquamarine;
+  border: none;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 30px;
+  margin: 4px 2px;
+  cursor: pointer;
+  position: relative;
+  top: 100px;
+  left: 6.3%;
 }
