@@ -21,15 +21,13 @@ header{
 
 #GPA{
     display: inline;
-    padding-left: 60%;
+    padding-left: 40%;
 }
 
 #Semesterword{
-  padding-top: 80px;
   display: inline;
 }
 
 #Semester{
-  padding-top: 20px;
   display: inline;
 }
