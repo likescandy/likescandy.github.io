@@ -46,7 +46,7 @@ body{
 }
 
 .course_add{
-  background-color: aquamarine;
+background-color: aquamarine;
 border-color: white;
 color: white;
 text-align: center;
@@ -58,4 +58,5 @@ cursor: pointer;
 position: relative;
 top: 100px;
 left: 6.3%;
+padding: 2px 6px 2px 6px;
 }
