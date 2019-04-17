@@ -46,17 +46,21 @@ body{
 }
 
 .course_add{
-background-color: aquamarine;
-border-color: white;
-color: white;
-text-align: center;
-text-decoration: none;
-display: inline-block;
-font-size: 30px;
-margin: 4px 2px;
-cursor: pointer;
-position: relative;
-top: 100px;
-left: 6.3%;
-padding: 2px 6px 2px 6px;
+  background-color: aquamarine;
+  border-color: white;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 30px;
+  margin: 4px 2px;
+  cursor: pointer;
+  position: relative;
+  top: 100px;
+  left: 6.3%;
+  padding: 2px 6px 2px 6px;
+  border-top: 1px solid #CCCCCC;
+  border-right: 1px solid #333333;
+  border-bottom: 1px solid #333333;
+  border-left: 1px solid #CCCCCC;
 }
